@@ -8,13 +8,11 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
-@Service
 public class MemberService {
 
     // 저장소
     private final MemberRepository memberRepository;
 
-    @Autowired // MemberService는 MemberRepository를 필요로 함 => 연결
     public MemberService(MemberRepository memberRepository) {
         this.memberRepository = memberRepository;
 
