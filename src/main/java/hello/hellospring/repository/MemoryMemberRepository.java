@@ -1,9 +1,12 @@
 package hello.hellospring.repository;
 
 import hello.hellospring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
+
+@Repository  // 클래스 파일이므로 이게 스프링이 알 수 있도록 @Repository를 추가하여 정형화 시켜야한다.
 public class MemoryMemberRepository implements MemberRepository{
 
     // Map: java의 데이터 저장 방식 중 하나
