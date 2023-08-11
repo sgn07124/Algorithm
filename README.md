@@ -13,12 +13,13 @@
 | Bruteforce            | 브루트포스           | 1     | [바로가기](https://github.com/sgn07124/Algorithm/blob/main/Bruteforce)          |
 | Sorting               | 정렬                 | 2     | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Sorting)             |
 | Binary Search         | 이분 탐색            |      | [바로가기]()        |
+| Number Theory        | 정수론      | 1     | [바로가기]()       |
 | BFS & DFS             | 너비 & 깊이 우선탐색 |     | [바로가기]()              |
 | Prefix Sum            | 누적합               |      | [바로가기]()           |
 | Dijkstra              | 다익스트라           |      | [바로가기]()            |
 | Disjoint Set          | 분리 집합            |      | [바로가기]()         |
 | Backtracking          | 백 트래킹            |      | [바로가기]()        |
-| Stack & Queue         | 스택 & 큐            |      | [바로가기]()          |
+| Stack & Queue         | 스택 & 큐            | 1     | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Stack%20&%20Queue)          |
 | Two Pointer           | 투 포인터            |      | [바로가기]()          |
 | Minimum Spanning Tree | 최소 스패닝 트리     |      | [바로가기]() |
 | Topological Sorting   | 위상 정렬            |      | [바로가기]()  |
