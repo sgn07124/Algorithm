@@ -7,11 +7,11 @@
 
 | Title                 | Name                 | Count | Link                                                                                    |
 | --------------------- | -------------------- | ----- | --------------------------------------------------------------------------------------- |
-| Implementation        | 구현                 |      | [바로가기](https://github.com/sgn07124/Algorithm/blob/main/Implementation/readme.md)      |
+| Implementation        | 구현                 |      | [바로가기](https://github.com/sgn07124/Algorithm/blob/main/Implementation)      |
 | Dynamic Programming   | 동적계획법           |      | [바로가기]()  |
 | Greedy                | 그리디               |      | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Greedy)              |
-| Bruteforce            | 브루트포스           |      | [바로가기](https://github.com/sgn07124/Algorithm/blob/main/Bruteforce/readme.md)          |
-| Sorting               | 정렬                 |      | [바로가기]()             |
+| Bruteforce            | 브루트포스           |      | [바로가기](https://github.com/sgn07124/Algorithm/blob/main/Bruteforce)          |
+| Sorting               | 정렬                 |      | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Sorting)             |
 | Binary Search         | 이분 탐색            |      | [바로가기]()        |
 | BFS & DFS             | 너비 & 깊이 우선탐색 |     | [바로가기]()              |
 | Prefix Sum            | 누적합               |      | [바로가기]()           |
