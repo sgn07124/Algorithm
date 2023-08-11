@@ -9,7 +9,7 @@
 | --------------------- | -------------------- | ----- | --------------------------------------------------------------------------------------- |
 | Implementation        | 구현                 |      | [바로가기](https://github.com/sgn07124/Algorithm/blob/main/Implementation/readme.md)      |
 | Dynamic Programming   | 동적계획법           |      | [바로가기]()  |
-| Greedy                | 그리디               |      | [바로가기]()              |
+| Greedy                | 그리디               |      | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Greedy)              |
 | Bruteforce            | 브루트포스           |      | [바로가기](https://github.com/sgn07124/Algorithm/blob/main/Bruteforce/readme.md)          |
 | Sorting               | 정렬                 |      | [바로가기]()             |
 | Binary Search         | 이분 탐색            |      | [바로가기]()        |
