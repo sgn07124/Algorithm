@@ -7,7 +7,7 @@
 
 | Title                 | Name                 | Count | Link                                                                                    |
 | --------------------- | -------------------- | ----- | --------------------------------------------------------------------------------------- |
-| Implementation        | 구현                 |      | [바로가기](https://github.com/sgn07124/Algorithm/blob/91b6699dd4708b9669122ecf62a0f2cc88d1e961/Implementation/readme.md)      |
+| Implementation        | 구현                 |      | [바로가기](https://github.com/sgn07124/Algorithm/blob/main/Implementation/readme.md)      |
 | Dynamic Programming   | 동적계획법           |      | [바로가기]()  |
 | Greedy                | 그리디               |      | [바로가기]()              |
 | Bruteforce            | 브루트포스           |      | [바로가기]()          |
