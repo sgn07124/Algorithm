@@ -12,7 +12,7 @@
 | Greedy                | 그리디               | 1     | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Greedy)              |
 | Bruteforce            | 브루트포스           | 1     | [바로가기](https://github.com/sgn07124/Algorithm/blob/main/Bruteforce)          |
 | Sorting               | 정렬                 | 2     | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Sorting)             |
-| Binary Search         | 이분 탐색            |      | [바로가기]()        |
+| Binary Search         | 이분 탐색            |      | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Binary%20Search)        |
 | Number Theory        | 정수론      | 1     | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Number%20Theory)       |
 | BFS & DFS             | 너비 & 깊이 우선탐색 |     | [바로가기]()              |
 | Prefix Sum            | 누적합               |      | [바로가기]()           |
