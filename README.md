@@ -16,7 +16,7 @@
 | Number Theory        | 정수론      | 1     | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Number%20Theory)       |
 | BFS & DFS             | 너비 & 깊이 우선탐색 |     | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/BFS%20%26%20DFS)              |
 | Prefix Sum            | 누적합               |      | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Prefix%20Sum)           |
-| Dijkstra              | 다익스트라           |      | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Dijkstra)            |
+| Graph Theory              | 그래프 이론           |      | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Graph%20Theory)            |
 | Disjoint Set          | 분리 집합            |      | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Disjoint%20Set)         |
 | Backtracking          | 백 트래킹            |      | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Backtracking)        |
 | Stack & Queue         | 스택 & 큐            | 1     | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Stack%20&%20Queue)          |
