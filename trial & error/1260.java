@@ -1,22 +1,23 @@
-import java.io.BufferedReader;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Main {
+public class problem1260 {
     public static int[][] branch;
-    public static boolean[] visit;
+    public static boolean[] visit; // 초기값 null
     public static Queue<Integer> queue;
     public static int N;
     public static int M;
     public static int V;
 
     public static void dfs(int start) {  // start → V
-        visit[start] = true;
-        System.out.println(start + " ");
+        visit[start] = true;  // 방문한 정점을 한 번 더 가면 안됨
+        //System.out.print(start);
+        System.out.print(start + " ");
         for(int i = 1; i <= N; i++) {
-            if(branch[start][i] == 1 && visit[i] == false) {
+            //System.out.print(start);
+            if(branch[start][i] == 1 && visit[i] == false) { // 방문하지 않은 정점인 경우,
                 dfs(i);
             }
         }
@@ -54,14 +55,14 @@ public class Main {
         for (int i = 0; i < M; i++) {
             int a = sc.nextInt();
             int b = sc.nextInt();
-            branch[a][b] = branch[b][a] = 1;
+            branch[a][b] = branch[b][a] = 1;  // 무방향 그래프
         }
 
         /* dfs */
         dfs(V);
         System.out.println();
 
-        Arrays.fill(visit, false);
+        Arrays.fill(visit, false);  // visit을 false로 초기화
 
         /* bfs */
         bfs(V);
@@ -69,4 +70,14 @@ public class Main {
 
 
 }
-// 이거 dfs 부분에 문제 있어서 디버깅 해봐야됨.
+/*
+0 1 2 3 4
+1 0 1 1 1
+2 1 0 0 1
+3 1 0 0 1
+4 1 1 1 0
+from(행) to(열)
+start = 1 : 1-> 2 -> 4 -> 3
+ */
+
+// 이거 dfs 부분에서 start만 출력되고 dfs(i)를 실행하지 못하는거 같음
