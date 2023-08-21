@@ -14,7 +14,6 @@
 | Sorting               | 정렬                 | 2     | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Sorting)             |
 | Binary Search         | 이분 탐색            |      | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Binary%20Search)        |
 | Number Theory        | 정수론      | 1     | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Number%20Theory)       |
-| BFS & DFS             | 너비 & 깊이 우선탐색 |     | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/BFS%20%26%20DFS)              |
 | Prefix Sum            | 누적합               |      | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Prefix%20Sum)           |
 | Graph Theory              | 그래프 이론           | 4     | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Graph%20Theory)            |
 | Disjoint Set          | 분리 집합            |      | [바로가기](https://github.com/sgn07124/Algorithm/tree/main/Disjoint%20Set)         |
